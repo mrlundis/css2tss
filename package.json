@@ -1,0 +1,17 @@
+{
+  "name": "csstss",
+  "version": "0.1.0",
+  "description": "A CSS to TSS (Titanium Style Sheet) compiler.",
+  "main": "index.js",
+  "repository": "git://github.com/rjkip/csstss",
+  "homepage": "https://github.com/rjkip/csstss",
+  "author": "Reinier Kip",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.6.2",
+    "css-parse": "~1.4.0",
+    "commander": "~1.1.1",
+    "js-beautify": "~1.3.2",
+    "debug": "~0.7.2"
+  }
+}
